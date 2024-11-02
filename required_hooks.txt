@@ -1,0 +1,5 @@
+__read_nocancel 0x26B80
+__open64_nocancel 026B00
+__pread64_nocancel 0x26BB0
+fstatat64_time64_stat 0x268F0
+__mmap64 0x26cc0
